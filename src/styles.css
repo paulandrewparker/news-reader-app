@@ -1,1 +1,8 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+body {
+    padding: 2em 23em;
+    background:lightgray;
+}
+
+
 /* Add application styles & imports to this file! */
